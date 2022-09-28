@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l0tkaa
-- 👀 I’m interested in DevOps, Linux, Cybersecurity, and Cloud.
-- 🌱 I’m currently learning and going to school for Cybersecurity. 
+- 👀 Interested in learning about things that include sysAdmin, linux, cybersecurity, cloud, and programming.
+- 🌱 Currently learning and going to school for Cybersecurity. 
 - 💞️ I’m looking to collaborate on ...(tba)
 - 📫 How to reach me ... (tba)
 
