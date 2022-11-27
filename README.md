@@ -1,4 +1,4 @@
-<h3 align="center">Student (est. Sept 2022)</h3>
+<h3 align="center">Student (est. Sept 2022 - current)</h3>
 
 <p align="left">
 </p>
