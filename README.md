@@ -8,7 +8,8 @@
 
 aws, bash, html, linux, python
 
-currently working on: C w/ linux kernel, ansible, container orchestration, machine learning projects with sagemaker
+<h3 align= "left"> currently working on:</h3>
+<p align= "left"> C w/ linux kernel, ansible, container orchestration, machine learning projects with sagemaker</p>
 
 📫 lotka.dev@gmail.com
 
