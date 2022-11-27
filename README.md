@@ -8,7 +8,7 @@
 
 aws, bash, html, linux, python
 
-currently working on: C, ansible, container orchestration
+currently working on: C, ansible, container orchestration, machine learning projects with sagemaker
 
 📫 lotka.dev@gmail.com
 
