@@ -8,7 +8,7 @@
 
 aws, bash, html, linux, python
 
-currently working on: C, ansible/containers
+currently working on: C, ansible, container orchestration
 
 📫 lotka.dev@gmail.com
 
