@@ -9,7 +9,7 @@ aws, bash, html, linux, python
 <br/><br/>
 <h3 align="left">Currently Working On:</h3>
 </p><ul>
- <li>C w/ linux kernel, 
+ <li>C w/ linux kernel and networking interfaces, 
    <li>ansible, container orchestration, 
   <li>machine learning projects with sagemaker</li></p>
 
