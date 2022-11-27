@@ -12,7 +12,7 @@ currently working on: C w/ linux kernel, ansible, container orchestration, machi
 
 📫 lotka.dev@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0tkaa)](https://github.com/l0tkaa/&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0tkaa&show_icons=true&theme=radical)](https://github.com/l0tkaa/)
 
 <!---
 l0tkaa/l0tkaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
