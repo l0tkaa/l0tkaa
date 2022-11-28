@@ -10,7 +10,7 @@ aws, bash, html, linux, python
 <h3 align="left">Currently Working On:</h3>
 </p><ul>
  <li>C w/ linux kernel and networking interfaces, 
-   <li>ansible, container orchestration, 
+   <li>ansible and container orchestration, 
   <li>machine learning projects with sagemaker</li></p>
 
 📫 lotka.dev@gmail.com
