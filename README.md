@@ -11,9 +11,9 @@ aws, bash, html, linux, python</p>
 <Html>     
 <body>
   
-<font size="5px">
+
   <h4>Certs: </br></h4>
-  <h6>a+, itil, aws sa-associate</h6>
+  <h6>comptia a+, itil, aws sa-associate</h6>
 
 
 </p>
