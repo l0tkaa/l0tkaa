@@ -23,6 +23,7 @@ centos, ubuntu, apache tomcat + maven<br/>
 vagrant, virtualbox, [...] <br/>
 algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
 waterfall, agile, project management concepts</br>
+networking things like DNS, web certificates, segmentation, routing IPs, ACLs/policies, subnetting/IPv4 stuff <br/>
 </p>
 
 windows 7, 10, 11, 365<br/>
