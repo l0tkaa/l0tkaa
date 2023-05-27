@@ -20,7 +20,7 @@ aws, bash, html, linux, python</p>
 
   <h4>Minor Experience:</h4><h6>
 centos, ubuntu, apache tomcat + maven<br/>
-vagrant, [...] <br/>
+vagrant, virtualbox, [...] <br/>
 algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
 waterfall, agile, project management concepts</br>
 </p>
