@@ -26,7 +26,7 @@ To-Do List:</br>
 website w/ aws</br> 
 learn c, java<br/> 
 finish devops tutorials<br/>
-make something
+
 
   
 
