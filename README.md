@@ -12,26 +12,30 @@ aws, bash, html, linux, python</p>
 <body>
   
 <font size="5px">
-Certs: </br>
-a+, itil, aws sa-associate
+  <h4>Certs: </br></h4>
+  <h6>a+, itil, aws sa-associate</h6>
+
 
 </p>
 
-Minor experience:<br/>
-vagrant:
-  centos, ubuntu, apache tomcat + maven<br/>
-windows 7, 10, 11, 365<br/>
- kali w/ hackthebox, tryhackme (metasploit, wireshark, netcat, dig, etc..)</br>
- ghidra (this one i'm still a mess with tbh)</br>
+  <h4>Minor Experience:</h4><h6>
+centos, ubuntu, apache tomcat + maven<br/>
+vagrant, [...] <br/>
 algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
-  waterfall, agile, project management concepts</br>
+waterfall, agile, project management concepts</br>
+</p>
+
+windows 7, 10, 11, 365<br/>
+kali w/ hackthebox, tryhackme [metasploit, wireshark, netcat, dig, etc...]</br>
+ghidra (this one i'm still a mess with tbh)</br>
+</h6>
 
 </p>
-To-Do List:</br>
-website w/ aws</br> 
+<h4>Personal To-Do List:</h4>
+<h6>website w/ aws</br> 
 learn c, java<br/> 
 finish devops tutorials<br/>
-
+</h6>
 
   
 
