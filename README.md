@@ -18,15 +18,15 @@ aws, bash, html, linux, python</p>
 
 </p>
 
-  <h4>Minor Experience:</h4><h6>
+  <h4>Minor Experience/Knowledge of:</h4><h6>
 centos, ubuntu, apache tomcat + maven<br/>
 vagrant, virtualbox, [...] <br/>
 algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
 waterfall, agile, project management concepts</br>
-networking things like DNS, web certificates, segmentation, routing IPs, ACLs/policies, subnetting/IPv4 stuff, and what an RJ45 is <br/>
+DNS, web certificates, segmentation, routing IPs, ACLs/policies, subnetting/IPv4, wifi protocols<br/>
 </p>
 
-windows 7, 10, 11, 365<br/>
+windows 7, 10, 11, 365, hardware components<br/>
 kali w/ hackthebox, tryhackme [metasploit, wireshark, netcat, dig, etc...]</br>
 ghidra (this one i'm still a mess with tbh)</br>
 </h6>
