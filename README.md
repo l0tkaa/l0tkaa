@@ -13,7 +13,7 @@ aws, bash, html, linux, python</p>
   
 <font size="5px">
 Certs: </br>
-a+, itil, aws associate
+a+, itil, aws sa-associate
 
 </p>
 
