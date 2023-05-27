@@ -20,6 +20,7 @@ a+, itil, aws sa-associate
 Minor experience:<br/>
 vagrant:
   centos, ubuntu, apache tomcat + maven<br/>
+algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
 
 </p>
 To-Do List:</br>
