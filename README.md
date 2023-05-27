@@ -20,6 +20,7 @@ a+, itil, aws sa-associate
 Minor experience:<br/>
 vagrant:
   centos, ubuntu, apache tomcat + maven<br/>
+windows 7, 10, 11, 365<br/>
 algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
   waterfall, agile, project management concepts</br>
 
