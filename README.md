@@ -21,7 +21,7 @@ Minor experience:<br/>
 vagrant:
   centos, ubuntu, apache tomcat + maven<br/>
 algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
-  waterfall, agile concepts</br>
+  waterfall, agile, project management concepts</br>
 
 </p>
 To-Do List:</br>
