@@ -36,7 +36,7 @@ ghidra (this one i'm still a mess with tbh)</br>
 
 </p>
 <h4>Personal To-Do List:</h4>
-<h6># am i there yet? 
+<h6># where am i on this?
 </h6>
 
   
