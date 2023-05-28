@@ -10,6 +10,36 @@
 aws, bash, html, linux, python</p>
 
 
+<!Doctype Html>  
+<Html>     
+<body>
+  
+
+  <h4>Certs: </br></h4>
+  <h6>comptia a+, itil, aws sa-associate</h6>
+
+
+</p>
+
+  <h4>Minor Experience/Knowledge of:</h4><h6>
+centos, ubuntu, apache tomcat + maven<br/>
+vagrant, virtualbox, [...] <br/>
+algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
+waterfall, agile, project management concepts</br>
+DNS, web certificates, segmentation, routing IPs, ACLs/policies, subnetting/IPv4, wifi protocols<br/>
+</p>
+
+windows 7, 10, 11, 365, hardware components<br/>
+kali w/ hackthebox, tryhackme [metasploit, wireshark, netcat, dig, etc...]</br>
+ghidra (this one i'm still a mess with tbh)</br>
+</h6>
+
+</p>
+<h4>Personal To-Do List:</h4>
+<h6># am i where i want to be?
+</h6>
+
+  
 
 
 </font>
