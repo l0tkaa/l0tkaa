@@ -29,7 +29,7 @@ waterfall, agile, project management concepts</br>
 DNS, web certificates, segmentation, routing IPs, ACLs/policies, subnetting/IPv4, wifi protocols<br/>
 </p>
 
-windows 7, 10, 11, 365, hardware components<br/>
+windows 7, 10, 11, 365, hardware components, printers<br/>
 kali w/ hackthebox, tryhackme [metasploit, wireshark, netcat, dig, etc...]</br>
 ghidra (this one i'm still a mess with tbh)</br>
 </h6>
