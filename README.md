@@ -36,7 +36,7 @@ ghidra (this one i'm still a mess with tbh)</br>
 
 </p>
 <h4>Personal To-Do List:</h4>
-<h6>learn c, assembly ♥, not fail school</br>
+<h6>learn c, assembly, not fail school</br>
 </h6>
 
   
