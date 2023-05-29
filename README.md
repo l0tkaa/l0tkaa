@@ -36,7 +36,7 @@ ghidra (this one i'm still a mess with tbh)</br>
 
 </p>
 <h4>Personal To-Do List (for me to check back up on later):</h4>
-<h6>learn c, assembly, not fail school, get gentoo fully installed, tcp/ip stack from scratch, linux kernel from scratch, raspberry pi automation, learn containers and DevOps tools, focusing on one thing at a time</br>
+<h6>learn c, assembly, not fail school, get gentoo fully installed, tcp/ip stack from scratch, linux kernel from scratch, raspberry pi automation, learn containers and DevOps tools, focusing on one thing at a time </br>
 <h4>Finished Projects:</h4>
 <h6>[...]</h6]
 </h6>
@@ -54,7 +54,7 @@ ghidra (this one i'm still a mess with tbh)</br>
 
 📫 lotka.dev@gmail.com
 
-
+</p><i>updated 5/29/23</i></br>
 <!---
 l0tkaa/l0tkaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
