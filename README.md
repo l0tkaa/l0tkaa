@@ -35,8 +35,10 @@ ghidra (this one i'm still a mess with tbh)</br>
 </h6>
 
 </p>
-<h4>Personal To-Do List:</h4>
-<h6>learn c, assembly, not fail school</br>
+<h4>Personal To-Do List (for me to check back up on later):</h4>
+<h6>learn c, assembly, not fail school, tcp/ip stack from scratch, linux kernel from scratch, raspberry pi, learn containers and DevOps tools</br>
+<h4>Finished Projects:</h4>
+<h6>[...]</h6]
 </h6>
 
   
