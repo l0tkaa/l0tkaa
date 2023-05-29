@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">Student (est. Sept 2022 - 2026)</h3>
+<h3 align="center">Student (est 2022-2026)</h3>
 
 <p align="left">
 </p>
@@ -10,51 +10,6 @@
 aws, bash, html, linux, python</p>
 
 
-<!Doctype Html>  
-<Html>     
-<body>
-  
-
-  <h4>Certs: </br></h4>
-  <h6>comptia a+, itil, aws sa-associate</h6>
-
-
-</p>
-
-  <h4>Minor Experience/Knowledge of:</h4><h6>
-centos, ubuntu, apache tomcat + maven<br/>
-vagrant, virtualbox, [...] <br/>
-algorithm efficiency, binary search, sorting, uml+diagrams, functions, loops, arrays, variables...<br/>
-waterfall, agile, project management concepts</br>
-DNS, web certificates, segmentation, routing IPs, ACLs/policies, subnetting/IPv4, wifi protocols<br/>
-</p>
-
-windows 7, 10, 11, 365, hardware components, printers<br/>
-kali w/ hackthebox, tryhackme [metasploit, wireshark, netcat, dig, etc...]</br>
-ghidra (this one i'm still a mess with tbh)</br>
-</h6>
-
-</p>
-<h4>Personal To-Do List (for me to check back up on later):</h4>
-<h6>learn c, assembly, not fail school, get gentoo fully installed, tcp/ip stack from scratch, linux kernel from scratch, raspberry pi automation, learn containers and DevOps tools, focusing on one thing at a time </br>
-<h4>Finished Projects:</h4>
-<h6>[...]</h6]
-</h6>
-
-  
-
-
-</font>
-
-</body>
-
-</html>
-
-</p></br></p>
-
-📫 lotka.dev@gmail.com
-
-</p><i>updated 5/29/23</i></br>
 <!---
 l0tkaa/l0tkaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
