@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">Student (est 2022-2026)</h3>
+
 
 <p align="left">
 </p>
