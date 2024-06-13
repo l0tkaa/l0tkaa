@@ -12,7 +12,11 @@
   <li>BASH/Linux</li>
   <li>Html5/CSS/Frontend</li> 
   <li>Python, C++</li> 
-  <li>mySQL, PostgreSQL</li>
+  <li> Vagrant</li>
+  <br>
+  TODO:
+  <li>Ansible, Kubernetes, Terraform, Docker (in progress)</li>
+   <li>mySQL, PostgreSQL(SQL in progress)</li>
 </ul>
 </p>
 
