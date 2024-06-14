@@ -16,7 +16,7 @@
   <br>
   TODO:
   <li>Ansible, Kubernetes, Terraform, Docker (in progress)</li>
-   <li>mySQL, PostgreSQL(SQL in progress)</li>
+   <li>mySQL, PostgreSQL(SQL + Data Management in progress)</li>
 </ul>
 </p>
 
