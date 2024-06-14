@@ -15,7 +15,7 @@
   <li> Vagrant</li>
   <br>
   TODO:
-  <li>Ansible, Kubernetes, Terraform, Docker (in progress)</li>
+  <li>Ansible, Kubernetes, Terraform, Jenkins, Maven(with Java Course), Docker (in progress)</li>
    <li>mySQL, PostgreSQL(SQL + Data Management in progress)</li>
 </ul>
 </p>
