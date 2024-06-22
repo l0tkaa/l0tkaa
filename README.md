@@ -13,6 +13,8 @@
   <li>Html5/CSS/Frontend</li> 
   <li>Python, C++</li> 
   <li> Vagrant</li>
+  <li>PacketTracer</li>
+  <li>Kali, Wireshark, Ghidra, HTB</li>
   <br>
   TODO:
   <li>Ansible, Kubernetes, Terraform, Jenkins, Maven(with Java Course), Docker (in progress)</li>
