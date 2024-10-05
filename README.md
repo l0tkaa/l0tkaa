@@ -10,15 +10,14 @@
 <ul>
   <li>AWS SAA, Net+, A+, Project+</li>
   <li>BASH/Linux</li>
-  <li>Html5/CSS/Frontend</li> 
-  <li>Python, C++</li> 
-  <li> Vagrant</li>
+  <li>Html5/CSS/Frontend</li>
+  <li>Python, C++, SQL</li> 
+  <li>Vagrant, Docker</li>
   <li>PacketTracer</li>
   <li>Kali, Wireshark, Ghidra, HTB</li>
   <br>
   TODO:
-  <li>Ansible, Kubernetes, Terraform, Jenkins, Maven(with Java Course), Docker (in progress)</li>
-   <li>mySQL, PostgreSQL(SQL + Data Management in progress)</li>
+  <li>CUDA + Tensorflow on Docker w/ Graphana and Prometheus</li>
 </ul>
 </p>
 
