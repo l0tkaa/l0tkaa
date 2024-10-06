@@ -16,8 +16,9 @@
   <li>PacketTracer</li>
   <li>Kali, Wireshark, Ghidra, HTB</li>
   <br>
-  TODO:
-  <li>CUDA + Tensorflow on Docker w/ Graphana and Prometheus</li>
+ CURRENT:
+  <li>CUDA + Tensorflow on Docker w/ Grafana and Prometheus</li>
+  <li>Estimating Project</li>
 </ul>
 </p>
 
