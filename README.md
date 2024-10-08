@@ -23,7 +23,7 @@ Feel free to explore my work below, and don't hesitate to reach out if you're in
 ## Featured Projects
 
 ### 1. [Estimating Project](https://github.com/l0tkaa/EstimatingProject)
-App to scan documents, model data, and use it for prediction and project estimation.
+App to scan documents, model data to use for prediction and increasing efficiency in project estimation.
 
 - **Tech Stack**: Python, Pandas, Openpyxl, Faker
 - **Features**:
