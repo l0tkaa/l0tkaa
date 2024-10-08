@@ -1,21 +1,71 @@
+# Computer Science Student
 
+## About Me
 
+I'm a passionate computer science student. I enjoy building full-stack applications, exploring new technologies, learning about code security, and contributing to open-source projects.
 
+Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating!
 
+---
 
-<p align="left">
-</p>
-<h3 align="left"> Languages and Tools:</h3>
+## Skills
+
+- **Languages**: Python, C++, Html, CSS
+- **Frameworks & Tools**: Node.js, Flask, Docker, Kubernetes, Terraform, Vagrant
+- **Cloud**: AWS
+- **Databases**: MySQL, PostgreSQL, YAML, Json
+- **Networking**: PacketTracer, Wireshark
+- **Security Tools**: Ghidra, Kali, HTB
+- 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<ul>
-  <li>AWS SAA, Net+, A+, Project+</li>
-  <li>BASH/Linux</li>
-  <li>Html5/CSS/Frontend</li>
-  <li>Python, C++, SQL</li> 
-  <li>Vagrant, Docker</li>
-  <li>PacketTracer</li>
-  <li>Kali, Wireshark, Ghidra, HTB</li>
-  <br>
+---
+
+## Featured Projects
+
+### 1. [Estimating Project](https://github.com/l0tkaa/EstimatingProject)
+App to scan documents, model data, and use it for prediction and project estimation.
+
+- **Tech Stack**: Python, Pandas, Openpyxl, Faker
+- **Features**:
+  (In Progress)
+  - Feature1
+  - Feature2
+  - Feature3
+
+### 2. [CUDA-TensorFlow-Workloads](https://github.com/yourusername/ecommerce-api)
+A RESTful API for an e-commerce platform, developed with Flask and PostgreSQL.
+
+- **Tech Stack**: Python, TensorFlow, Docker, Grafana, Prometheus
+- **Features**:
+  - Feature1
+  - Feature2
+  - Feature3
+
+### 3. [Microservices-Ecommerce-Platform](https://github.com/yourusername/portfolio)
+A responsive personal portfolio website to showcase my projects and blog posts.
+
+- **Tech Stack**: Languages, server, databases, frameworks
+- **Features**:
+  - Feature1
+  - Feature2
+
+---
+
+## Certifications
+- AWS Certified Solutions Architect – Associate
+- Comptia A+, Network+, Project+ 
+
+---
+
+## Get In Touch
+
+- [Email Me](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+
+
+
+
+
 
 </ul>
 </p>
