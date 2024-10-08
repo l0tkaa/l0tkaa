@@ -33,7 +33,7 @@ App to scan documents, model data to use for prediction and increasing efficienc
   - Feature3
 
 ### 2. [CUDA-TensorFlow-Workloads](https://github.com/yourusername/ecommerce-api)
-A RESTful API for an e-commerce platform, developed with Flask and PostgreSQL.
+Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA, and TensorFlow with Prometheus and Grafana.
 
 - **Tech Stack**: Python, TensorFlow, Docker, Grafana, Prometheus
 - **Features**:
@@ -42,7 +42,7 @@ A RESTful API for an e-commerce platform, developed with Flask and PostgreSQL.
   - Feature3
 
 ### 3. [Microservices-Ecommerce-Platform](https://github.com/yourusername/portfolio)
-A responsive personal portfolio website to showcase my projects and blog posts.
+A cloud-native, distributed system designed to simulate a real-world e-commerce application. This project demonstrates modern software architecture principles by breaking down the platform into multiple microservices, each responsible for a specific function, such as product management, order processing, user management, and inventory tracking.
 
 - **Tech Stack**: Languages, server, databases, frameworks
 - **Features**:
