@@ -44,7 +44,7 @@ Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA, and Tenso
 ### 3. [Microservices-Ecommerce-Platform](https://github.com/yourusername/portfolio)
 A cloud-native, distributed system designed to simulate a real-world e-commerce application. This project demonstrates modern software architecture principles by breaking down the platform into multiple microservices, each responsible for a specific function, such as product management, order processing, user management, and inventory tracking.
 
-- **Tech Stack**: Languages, server, databases, frameworks
+- **Tech Stack**: Java, SpringBoot, RabbitMQ, NodeJS, Docker, Kubernetes, Terraform
 - **Features**:
   - Feature1
   - Feature2
