@@ -32,8 +32,8 @@ App to scan documents, model data to use for prediction and increasing efficienc
   - Feature2
   - Feature3
 
-### 2. [CUDA-TensorFlow-Workloads](https://github.com/yourusername/ecommerce-api)
-Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA, and TensorFlow with Prometheus and Grafana.
+### 2. [CUDA-TensorFlow-Workloads](https://github.com/l0tkaa/CUDA-TensorFlow-Workloads)
+Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA Container Toolkit, CUDA, and TensorFlow with Prometheus and Grafana.
 
 - **Tech Stack**: Python, TensorFlow, Docker, Grafana, Prometheus
 - **Features**:
