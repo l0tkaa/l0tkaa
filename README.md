@@ -37,6 +37,7 @@ Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA Container 
 
 - **Tech Stack**: Python, TensorFlow, Docker, Grafana, Prometheus
 - **Features**:
+  (In Progress)
   - Feature1
   - Feature2
   - Feature3
@@ -46,6 +47,7 @@ A cloud-native, distributed system designed to simulate a real-world e-commerce 
 
 - **Tech Stack**: Java, SpringBoot, RabbitMQ, NodeJS, Docker, Kubernetes, Terraform
 - **Features**:
+  (In Progress)
   - Feature1
   - Feature2
 
