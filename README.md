@@ -34,13 +34,13 @@ Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA Container 
 - Python, TensorFlow, Docker, Grafana, Prometheus
   
 
-### 3. [Microservices-Ecommerce-Platform](https://github.com/yourusername/portfolio)
+### 3. [Microservices-Ecommerce-Platform](https://github.com/l0tkaa/Microservices-Ecommerce-Platform)
 A cloud-native, distributed system designed to simulate a real-world e-commerce application. 
 
 - Java, SpringBoot, RabbitMQ, NodeJS, Docker, Kubernetes, Terraform
   
 
-### 4. [ESP32-StarterKit-Projects](https://github.com/yourusername/portfolio)
+### 4. [ESP32-StarterKit-Projects](https://github.com/l0tkaa/esp32-starterkit)
 Beginner-friendly projects using the SunFounder ESP32 Ultimate Starter Kit. Each project showcases key microcontroller concepts and applications, from basic input/output to sensor integration and wireless communication. 
 
 - ESP32 Microcontroller, Resistors, Temperature and Humidity Sensors, ...
