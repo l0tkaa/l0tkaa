@@ -25,33 +25,32 @@ Feel free to explore my work below, and don't hesitate to reach out if you're in
 ### 1. [Estimating Project](https://github.com/l0tkaa/EstimatingProject)
 App to scan documents, model data to use for prediction and increasing efficiency in project estimation.
 
-- **Tech Stack**: Python, Pandas, Openpyxl, Faker
-- **Features**:
-  (In Progress)
-  - Feature1
-  - Feature2
-  - Feature3
+-  Python, Pandas, Openpyxl, Faker
+
 
 ### 2. [CUDA-TensorFlow-Workloads](https://github.com/l0tkaa/CUDA-TensorFlow-Workloads)
 Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA Container Toolkit, and TensorFlow with Prometheus and Grafana.
 
-- **Tech Stack**: Python, TensorFlow, Docker, Grafana, Prometheus
-- **Features**:
-  (In Progress)
-  - Feature1
-  - Feature2
-  - Feature3
+- Python, TensorFlow, Docker, Grafana, Prometheus
+  
 
 ### 3. [Microservices-Ecommerce-Platform](https://github.com/yourusername/portfolio)
-A cloud-native, distributed system designed to simulate a real-world e-commerce application. This project demonstrates modern software architecture principles by breaking down the platform into multiple microservices, each responsible for a specific function, such as product management, order processing, user management, and inventory tracking.
+A cloud-native, distributed system designed to simulate a real-world e-commerce application. 
 
-- **Tech Stack**: Java, SpringBoot, RabbitMQ, NodeJS, Docker, Kubernetes, Terraform
-- **Features**:
-  (In Progress)
-  - Feature1
-  - Feature2
+- Java, SpringBoot, RabbitMQ, NodeJS, Docker, Kubernetes, Terraform
+  
+
+### 4. [ESP32-StarterKit-Projects](https://github.com/yourusername/portfolio)
+Beginner-friendly projects using the SunFounder ESP32 Ultimate Starter Kit. Each project showcases key microcontroller concepts and applications, from basic input/output to sensor integration and wireless communication. 
+
+- ESP32 Microcontroller, Resistors, Temperature and Humidity Sensors, ...
+
+### 5. [Stock-Prediction-Model](https://github.com/l0tkaa/stock-prediction-model)
+Data-driven application designed to predict stock prices by leveraging sentiment analysis from Twitter data.
+- tweepy, vaderSentiment, pandas, yfinance, scikit-learn, tkinter 
 
 ---
+
 
 ## Certifications
 - AWS Certified Solutions Architect – Associate
