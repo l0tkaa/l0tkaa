@@ -22,7 +22,7 @@ Feel free to explore my work below, and don't hesitate to reach out if you're in
 
 ## Featured Projects
 
-### 1. [Project Estimation Efficiency Helper](https://github.com/l0tkaa/EstimatingProject)
+### 1. [Data-Driven Project Estimation System](https://github.com/l0tkaa/EstimatingProject)
 App to scan documents, model data to use for prediction and increasing efficiency in project estimation.
 
 -  Python, Pandas, Openpyxl, Faker
