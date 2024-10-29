@@ -22,30 +22,30 @@ Feel free to explore my work below, and don't hesitate to reach out if you're in
 
 ## Featured Projects
 
-### 1. [Estimating Project](https://github.com/l0tkaa/EstimatingProject)
+### 1. [Project Estimation Efficiency Helper](https://github.com/l0tkaa/EstimatingProject)
 App to scan documents, model data to use for prediction and increasing efficiency in project estimation.
 
 -  Python, Pandas, Openpyxl, Faker
 
 
-### 2. [CUDA-TensorFlow-Workloads](https://github.com/l0tkaa/CUDA-TensorFlow-Workloads)
+### 2. [NVIDIA Accelerated Workload Monitoring using CUDA, TensorFlow](https://github.com/l0tkaa/CUDA-TensorFlow-Workloads)
 Set up and monitor of a GPU-accelerated workload using Docker, NVIDIA Container Toolkit, and TensorFlow with Prometheus and Grafana.
 
 - Python, TensorFlow, Docker, Grafana, Prometheus
   
 
-### 3. [Microservices-Ecommerce-Platform](https://github.com/l0tkaa/Microservices-Ecommerce-Platform)
+### 3. [Microservices Platform with Terraform, Docker, RabbitMQ, Springboot](https://github.com/l0tkaa/Microservices-Ecommerce-Platform)
 A cloud-native, distributed system designed to simulate a real-world e-commerce application. 
 
 - Java, SpringBoot, RabbitMQ, NodeJS, Docker, Kubernetes, Terraform
   
 
-### 4. [ESP32-StarterKit-Projects](https://github.com/l0tkaa/esp32-starterkit)
+### 4. [ESP32 Microcontroller StarterKit Projects](https://github.com/l0tkaa/esp32-starterkit)
 Beginner-friendly projects using the SunFounder ESP32 Ultimate Starter Kit. Each project showcases key microcontroller concepts and applications, from basic input/output to sensor integration and wireless communication. 
 
 - ESP32 Microcontroller, Resistors, Temperature and Humidity Sensors, ...
 
-### 5. [Stock-Prediction-Model](https://github.com/l0tkaa/stock-prediction-model)
+### 5. [Stock Prediction Model utilizing Sentient Analysis](https://github.com/l0tkaa/stock-prediction-model)
 Data-driven application designed to predict stock prices by leveraging sentiment analysis from Twitter data.
 - tweepy, vaderSentiment, pandas, yfinance, scikit-learn, tkinter 
 
