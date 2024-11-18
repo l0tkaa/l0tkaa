@@ -45,7 +45,7 @@ Beginner-friendly projects using the SunFounder ESP32 Ultimate Starter Kit. Each
 
 - ESP32 Microcontroller, Resistors, Temperature and Humidity Sensors, ...
 
-### 5. [Stock Prediction Model utilizing Sentient Analysis](https://github.com/l0tkaa/stock-prediction-model)
+### 5. [Stock Prediction Model utilizing Sentiment Analysis](https://github.com/l0tkaa/stock-prediction-model)
 Data-driven application designed to predict stock prices by leveraging sentiment analysis from Twitter data.
 - tweepy, vaderSentiment, pandas, yfinance, scikit-learn, tkinter 
 
