@@ -2,15 +2,12 @@
 
 ## About Me
 
-Current Project: 
-"𝗠𝗟-𝗗𝗮𝘁𝗮-𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀-𝗣𝗿𝗼𝗷𝗲𝗰𝘁" https://github.com/l0tkaa/ML-Data-Insights-Project
+Current Project <br>
+["ML-Data-Insights-Project"](https://github.com/l0tkaa/ML-Data-Insights-Project)
 
-With this, I'm learning how to use GitHub Projects for organization while creating Milestones and Issues to work incrementally & iteratively. The project listed includes skills such as data preprocessing/cleaning, and simple linear regression using housing data. 
+Experience from Project<br>
+Learning how to use GitHub Projects for organization while creating Milestones and Issues to work incrementally & iteratively. The project listed includes skills such as data preprocessing/cleaning, and simple linear regression using housing data. 
 
-
-As I'm doing this, I'm taking the following course on Coursera:
-𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
-𝗼𝗳𝗳𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝘁𝗮𝗻𝗳𝗼𝗿𝗱 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗲𝗲𝗽𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴.𝗔𝗜
 
 
 ---
