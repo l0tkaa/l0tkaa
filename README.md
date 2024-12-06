@@ -2,9 +2,18 @@
 
 ## About Me
 
-I'm a passionate computer science student. I enjoy building full-stack applications, exploring new technologies, learning about code security, and contributing to open-source projects.
+Current Project: 
+"𝗠𝗟-𝗗𝗮𝘁𝗮-𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀-𝗣𝗿𝗼𝗷𝗲𝗰𝘁" https://github.com/l0tkaa/ML-Data-Insights-Project
 
-Feel free to explore my work below, and don't hesitate to reach out if you're interested in collaborating!
+With this, I'm learning how to use GitHub Projects for organization while creating Milestones and Issues to work incrementally & iteratively. The project listed includes skills such as data preprocessing/cleaning, and simple linear regression using housing data. 
+
+
+As I'm doing this, I'm taking the following course on Coursera:
+𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻
+𝗼𝗳𝗳𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝘁𝗮𝗻𝗳𝗼𝗿𝗱 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗲𝗲𝗽𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴.𝗔𝗜
+
+Relevant courses from degree: 
+𝗗𝗶𝘀𝗰𝗿𝗲𝘁𝗲 𝗠𝗮𝘁𝗵, 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀/𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀, 𝗖𝗮𝗹𝗰𝘂𝗹𝘂𝘀, 𝗠𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗝𝗮𝘃𝗮 𝗖𝗼𝘂𝗿𝘀𝗲𝘀, 𝗖++, 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲/𝗔𝗥𝗠𝘃𝟴
 
 ---
 
