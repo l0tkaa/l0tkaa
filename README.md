@@ -14,7 +14,7 @@ Learning how to use GitHub Projects for organization while creating Milestones a
 
 ## Skills
 
-- **Languages**: Python, C++, Html, CSS
+- **Languages**: Python, C++, Html, CSS, Java
 - **Frameworks & Tools**: Node.js, Flask, Docker, Kubernetes, Terraform, Vagrant
 - **Cloud**: AWS
 - **Databases**: MySQL, PostgreSQL, YAML, Json
