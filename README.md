@@ -1,16 +1,5 @@
 # Computer Science Student
 
-## About Me
-
-Current Project <br>
-["ML-Data-Insights-Project"](https://github.com/l0tkaa/ML-Data-Insights-Project)
-
-Experience from Project<br>
-Learning how to use GitHub Projects for organization while creating Milestones and Issues to work incrementally & iteratively. The project listed includes skills such as data preprocessing/cleaning, and simple linear regression using housing data. 
-
-
-
----
 
 ## Skills
 
