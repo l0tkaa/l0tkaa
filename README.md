@@ -5,7 +5,7 @@
 
 - **Languages**: Python, C++, Html, CSS, Java
 - **Frameworks & Tools**: Node.js, Flask, Docker, Kubernetes, Terraform, Vagrant, Postman
-- **Cloud**: AWS, GCP, Azure
+- **Cloud**: AWS SAA, GCP, Azure
 - **Databases**: MySQL, PostgreSQL, YAML, Json
 - **Networking**: PacketTracer, Wireshark
 - **Security Tools**: Ghidra, Kali, HTB
