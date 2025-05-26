@@ -4,7 +4,7 @@
 ## Skills
 
 - **Languages**: Python, C++, Html, CSS, Java
-- **Frameworks & Tools**: Node.js, Flask, Docker, Kubernetes, Terraform, Vagrant
+- **Frameworks & Tools**: Node.js, Flask, Docker, Kubernetes, Terraform, Vagrant, Postman
 - **Cloud**: AWS
 - **Databases**: MySQL, PostgreSQL, YAML, Json
 - **Networking**: PacketTracer, Wireshark
