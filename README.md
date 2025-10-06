@@ -3,7 +3,7 @@
 
 ## Skills
 
-- **Languages**: Python, C++, Html, CSS, Java
+- **Languages**: Python, C++, Html, CSS, Java, Typescript
 - **Frameworks & Tools**: Node.js, Flask, Docker, Kubernetes, Terraform, Vagrant, Postman
 - **Cloud**: AWS SAA, GCP, Azure
 - **Databases**: MySQL, PostgreSQL, YAML, Json
